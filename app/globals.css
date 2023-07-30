@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image{
+    width: auto;
+    height: auto;
+}
+.markdownContainer{
+    width: 100%;
+
+}
+.code{
+min-width: 100%;
+
+}
+.text-shadow-custom {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }

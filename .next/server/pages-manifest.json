@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/contact": "pages/api/contact.js",
+  "/_document": "pages/_document.js",
+  "/components/Feautred-Posts": "pages/components/Feautred-Posts.html",
+  "/components/Hero": "pages/components/Hero.html",
+  "/components/MainNavigation": "pages/components/MainNavigation.html",
+  "/components/PostContainer": "pages/components/PostContainer.html",
+  "/components/PostsContent": "pages/components/PostsContent.html",
+  "/contact": "pages/contact.html",
+  "/posts/[slug]": "pages/posts/[slug].js",
+  "/": "pages/index.js",
+  "/posts": "pages/posts.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
